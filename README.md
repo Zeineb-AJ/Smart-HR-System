@@ -26,7 +26,7 @@ Renforcer la sécurité et la productivité au sein de l’entreprise
 
 
 🛠️ Technologies utilisées
-Catégorie	Outils & Technologies
+
 Langages:	Python
 Bibliothèques IA:	OpenCV, dlib, TensorFlow / Keras, scikit-learn
 Analyse de données:	NumPy, Pandas
